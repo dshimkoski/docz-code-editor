@@ -4,11 +4,9 @@
   "scripts": {
     "doc": "docz dev"
   },
-  "dependencies": {
-    "react-simple-code-editor": "^0.8.0"
-  },
   "devDependencies": {
     "docz": "^0.13.7",
-    "docz-theme-default": "^0.13.7"
+    "docz-theme-default": "^0.13.7",
+    "react-simple-code-editor": "^0.8.0"
   }
 }
